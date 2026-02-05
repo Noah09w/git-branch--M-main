@@ -28,18 +28,3 @@ This project demonstrates how to build a production-style realtime app using mod
 
 ---
 
-## 📂 Project Structure
-pulse/
-├── public/
-│ └── assets/
-├── src/
-│ ├── components/
-│ ├── firebase/
-│ ├── data/
-│ ├── utils/
-│ ├── App.jsx
-│ └── main.jsx
-├── index.html
-├── tailwind.config.js
-├── vite.config.js
-└── package.json
