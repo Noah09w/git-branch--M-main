@@ -28,3 +28,16 @@ This project demonstrates how to build a production-style realtime app using mod
 
 ---
 
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Noah09w/git-branch--M-main.git
+cd pulse
+npm install
+src/firebase/firebase.js
+npm run dev
+
